@@ -1,0 +1,2 @@
+ls -l | grep ".*[0-9]+.*\.cfg"
+Matches any .cfg file with at least 1 digit in any position.
